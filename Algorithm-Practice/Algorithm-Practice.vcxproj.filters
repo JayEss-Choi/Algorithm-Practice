@@ -30,5 +30,8 @@
     <ClCompile Include="SW_Expert_1208.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SW_Expert_1949.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
